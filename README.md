@@ -1,4 +1,4 @@
-# Python Basics Assignment
+# Python Basics
 
 This repository contains my Python Basics assignment completed in Jupyter Notebook.
 
