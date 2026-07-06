@@ -22,7 +22,7 @@ This repository contains my Python Basics assignment completed in Jupyter Notebo
 
 ## File Included
 
-- `Python-Basics.ipynb` - Main assignment notebook
+- `Basics.ipynb` - Main assignment notebook
 
 ## Tools Used
 
@@ -35,13 +35,13 @@ This repository contains my Python Basics assignment completed in Jupyter Notebo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/CodeByMan/python-basics-assignment.git
+git clone https://github.com/CodeByMan/Python-Basics-CDE.git
 ```
 
 2. Open the project folder:
 
 ```bash
-cd python-basics-assignment
+cd python-basics
 ```
 
 3. Start Jupyter Notebook:
@@ -50,7 +50,7 @@ cd python-basics-assignment
 jupyter notebook
 ```
 
-4. Open `Python-Basics.ipynb`.
+4. Open `Basics.ipynb`.
 
 ## Author
 
